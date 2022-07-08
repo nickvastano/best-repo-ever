@@ -1,3 +1,4 @@
-# best-repo-ever
+# best-repo-ever<<<<<<< myfeaturebranch
 
-Testing out the read me through text edit.
+
+
